@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/balayesu/bala-beingzero/issues"
   },
-  "homepage": "https://github.com/balayesu/bala-beingzero#readme"
+  "homepage": "https://github.com/balayesu/bala-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
